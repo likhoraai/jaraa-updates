@@ -1,6 +1,6 @@
 {
-  "version": "0.5.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.5.0/Jaraa-0.5.0.zip",
-  "sha256": "36a0e82411f2c93fb4113eb00e3dbf4854b0736d3a5de7711a609283cefc499c",
-  "notes": "HUD density: JARAA naam ab core me auto-fit, panels overlap fixed (scroll safety), DEVICES panel me 3D wireframe laptop + mobile, hexagon buttons, core schematic, real power-level line."
+  "version": "0.6.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.6.0/Jaraa-0.6.0.zip",
+  "sha256": "17f7344e14982e1686d63b8c5dbc4e82f3ab9a1844feb6fd38ebe4ab39624f03",
+  "notes": "Phase 2 VOICE: push-to-talk mic + local Whisper (tiny/base), confidence gate, female SAPI voice jawab, mic check + model test Settings me. Commands Phase 3 se."
 }
