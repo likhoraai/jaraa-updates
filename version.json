@@ -1,6 +1,6 @@
 {
-  "version": "0.8.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.8.0/Jaraa-0.8.0.zip",
-  "sha256": "2ceebdbd01207cba826c85d44f75b6002ba089f25a05f2e222908e00bc3a6e3c",
-  "notes": "PHASE 3 \u2014 Commands LIVE: 'Chrome kholo', 'volume 50 karo', 'lock karo' \u2014 bolkar ya likhkar, teenon bhasha me, bina AI key ke. Live fix: ab halki awaz se nahi rukegi. STOP asal me kaam karta hai."
+  "version": "0.8.3",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.8.3/Jaraa-0.8.3.zip",
+  "sha256": "daf94b36b69e3f486a65cb031af56e2a8978702c764f96315268be1b9881d8cb",
+  "notes": "Sun-na fix: 'Chrome kholo' ab sahi sunegi (croncola band). Beech wala Jaraa TAP karo = bolna start/stop. Sirf 3 bhasha: English, Nepali, Hindi \u2014 AI ho ya local."
 }
