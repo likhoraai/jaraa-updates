@@ -1,6 +1,6 @@
 {
-  "version": "0.9.4",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.4/Jaraa-0.9.4.zip",
-  "sha256": "de32faaadb1e3818a9a03ab772ec4ff21c010c3da4ffadcb42080fcb8d51eb38",
-  "notes": "FAST: sensitivity zyada (halki awaz bhi sunegi), chup hote hi 0.6s me jawab ki taiyari, hands-free me pehchana command card par nahi rukega, sunna halki setting par tez. Live me bhi sensitivity HIGH + jaldi turn."
+  "version": "0.9.5",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.5/Jaraa-0.9.5.zip",
+  "sha256": "03d430e6ba84a962cb1450014ff0d2113137479bf7de8796ce784f33c0ebd17f",
+  "notes": "CHANDANI PARITY: Live ab 3.1-flash-live pehle + VAD bilkul Google-default. Naye: RAM/CPU/disk/battery/system status, timer command. Live ke volume/lock tools ka purana bug bhi fix. UI apna HUD hi hai."
 }
