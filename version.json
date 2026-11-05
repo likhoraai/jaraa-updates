@@ -1,6 +1,6 @@
 {
-  "version": "0.9.1",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.1/Jaraa-0.9.1.zip",
-  "sha256": "df41bb7bdcc1c16314b18a6e7b44ec9549a50afd37aca138315f58125609a4d3",
-  "notes": "Crash fix (v0.9.0 khulte hi band hoti thi). Agar app khul nahi rahi to Setup exe chalao \u2014 purani par install ho jayegi, data safe rahega. Hands-free same hai: core tap, bolo, chup = jawab."
+  "version": "0.9.3",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.3/Jaraa-0.9.3.zip",
+  "sha256": "2892f89d9d23fdf30f84450df8fd3c5685b9c849be3f4f45702076a60262d35a",
+  "notes": "LAG FIX + MIC FIX: sahi suna command ek hi baar me accept; dobara-sunna max 2 halki baar; core animation halka, peeche ho to ruk jata hai. MIC: Jaraa ab mic NAAM se dhundhti hai aur hands-free me mic girne par khud dobara jodti hai \u2014 restart nahi karna padega. Update ke baad ek baar Settings > Voice > Microphone me WO Mic Device phir se chun lena."
 }
