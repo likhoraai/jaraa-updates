@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.3.0/Jaraa-0.3.0.zip",
-  "sha256": "79373cbd57cf16d640c1f811eb3a048a57860776c468a0496eaaccec9be5c3d0",
-  "notes": "Jaraa ab REAL desktop app hai (Setup installer ke saath) aur updater ka bug fix hai. Agar tum abhi bhi purana unzip wala version chala rahe ho, ek baar Setup se install kar lo \u2014 uske baad updates hamesha app ke andar se aayenge."
+  "version": "0.4.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.0/Jaraa-0.4.0.zip",
+  "sha256": "78917a5fe9987da8c8dcf91f9f21f59d75892ac928b214caa0847308f2f8f647",
+  "notes": "COMPLEX HUD \u2014 tumhare JARVIS reference jaisa dense design: bada multi-ring core, radar sweep, CPU/RAM gauges, wireframe globe, real weather, live net speed. Updater fix ke saath \u2014 UPDATE button se sach me update lagega."
 }
