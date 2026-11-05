@@ -1,6 +1,6 @@
 {
-  "version": "0.4.3",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.3/Jaraa-0.4.3.zip",
-  "sha256": "4671e3a094e0417072ee46e853f6bfa549fbb21fb8a4ffc1d34cf5b4a44159b1",
-  "notes": "Crash fix: angular buttons ka QPolygon bug (app khul ke band hota tha) + drawing safety guards. Full screen aur updater fix included."
+  "version": "0.5.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.5.0/Jaraa-0.5.0.zip",
+  "sha256": "36a0e82411f2c93fb4113eb00e3dbf4854b0736d3a5de7711a609283cefc499c",
+  "notes": "HUD density: JARAA naam ab core me auto-fit, panels overlap fixed (scroll safety), DEVICES panel me 3D wireframe laptop + mobile, hexagon buttons, core schematic, real power-level line."
 }
