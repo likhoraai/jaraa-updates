@@ -1,6 +1,6 @@
 {
-  "version": "0.9.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.0/Jaraa-0.9.0.zip",
-  "sha256": "0bdb38cf5ca29fd78187a57a81a0e2bb78fef35a0ce190e2140d8ccf7c03802d",
-  "notes": "HANDS-FREE: beech wale Jaraa par EK tap \u2014 phir bas bolo, wo hamesha sunegi aur tum chup hoge to jawab degi. Band karne ke liye phir tap ya STOP."
+  "version": "0.9.1",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.1/Jaraa-0.9.1.zip",
+  "sha256": "df41bb7bdcc1c16314b18a6e7b44ec9549a50afd37aca138315f58125609a4d3",
+  "notes": "Crash fix (v0.9.0 khulte hi band hoti thi). Agar app khul nahi rahi to Setup exe chalao \u2014 purani par install ho jayegi, data safe rahega. Hands-free same hai: core tap, bolo, chup = jawab."
 }
