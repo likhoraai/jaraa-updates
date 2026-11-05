@@ -1,6 +1,6 @@
 {
-  "version": "0.9.5",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.5/Jaraa-0.9.5.zip",
-  "sha256": "03d430e6ba84a962cb1450014ff0d2113137479bf7de8796ce784f33c0ebd17f",
-  "notes": "CHANDANI PARITY: Live ab 3.1-flash-live pehle + VAD bilkul Google-default. Naye: RAM/CPU/disk/battery/system status, timer command. Live ke volume/lock tools ka purana bug bhi fix. UI apna HUD hi hai."
+  "version": "0.9.7",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.7/Jaraa-0.9.7.zip",
+  "sha256": "acbaaf29332d0dd9fc570666686ebdfb700d151153ed991ba55fc2865d2d7fa4",
+  "notes": "LOCAL VOICE HATA DIYA: core tap = sirf Live (1 tap on, 1 tap off). Hands-free/PTT/Whisper settings band. Type-commands aur PC tools chalte rahenge. Awaz = Live only (net + Gemini key), Chandani ki tarah."
 }
