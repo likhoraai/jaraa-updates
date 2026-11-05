@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.6.0/Jaraa-0.6.0.zip",
-  "sha256": "17f7344e14982e1686d63b8c5dbc4e82f3ab9a1844feb6fd38ebe4ab39624f03",
-  "notes": "Phase 2 VOICE: push-to-talk mic + local Whisper (tiny/base), confidence gate, female SAPI voice jawab, mic check + model test Settings me. Commands Phase 3 se."
+  "version": "0.7.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.7.0/Jaraa-0.7.0.zip",
+  "sha256": "cc85de481b202658d0c539833fc6f285c95ddf9d345124730cbbf735cf9ccd13",
+  "notes": "LIVE VOICE: Gemini Live natural awaz \u2014 LIVE button dabao aur bolo, beech me tok sakte ho, YouTube kholo bhi chalega. Internet + Gemini key chahiye. Local Whisper offline ke liye maujood."
 }
