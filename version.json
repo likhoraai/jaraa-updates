@@ -1,6 +1,6 @@
 {
-  "version": "0.4.1",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.1/Jaraa-0.4.1.zip",
-  "sha256": "5905c2460feb7462e1913889f185602555c9d43245edf882e37bd4837b05649e",
-  "notes": "Updater fix (cwd bug + file-by-file swap fallback). Is version ko Setup se install karo \u2014 uske baad updates UPDATE button se lagenge."
+  "version": "0.4.2",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.2/Jaraa-0.4.2.zip",
+  "sha256": "eff358736a7960b751893bb37c284d4c2e4d7ae78585a4d7ed240b41059977fa",
+  "notes": "Full screen: app maximized khulta hai, F11/\u26f6 se true full screen, HUD screen-size par scale hota hai. Updater fix included. Is version ko Setup se install karo \u2014 aage ke updates button se lagenge."
 }
