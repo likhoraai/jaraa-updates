@@ -1,6 +1,6 @@
 {
-  "version": "0.2.1",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.2.1/Jaraa-0.2.1.zip",
-  "sha256": "4b66cd81430292436a547d2dc18ac4b786bd7f7442a921c5bfb5ec4c6f7063f4",
-  "notes": "Icon fix: Jaraa ka icon ab installed app me sahi dikhega. Ye update in-app UPDATE button se aayega \u2014 koi manual download nahi."
+  "version": "0.3.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.3.0/Jaraa-0.3.0.zip",
+  "sha256": "79373cbd57cf16d640c1f811eb3a048a57860776c468a0496eaaccec9be5c3d0",
+  "notes": "Jaraa ab REAL desktop app hai (Setup installer ke saath) aur updater ka bug fix hai. Agar tum abhi bhi purana unzip wala version chala rahe ho, ek baar Setup se install kar lo \u2014 uske baad updates hamesha app ke andar se aayenge."
 }
