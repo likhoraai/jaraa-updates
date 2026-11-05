@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.0/Jaraa-0.4.0.zip",
-  "sha256": "78917a5fe9987da8c8dcf91f9f21f59d75892ac928b214caa0847308f2f8f647",
-  "notes": "COMPLEX HUD \u2014 tumhare JARVIS reference jaisa dense design: bada multi-ring core, radar sweep, CPU/RAM gauges, wireframe globe, real weather, live net speed. Updater fix ke saath \u2014 UPDATE button se sach me update lagega."
+  "version": "0.4.1",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.1/Jaraa-0.4.1.zip",
+  "sha256": "5905c2460feb7462e1913889f185602555c9d43245edf882e37bd4837b05649e",
+  "notes": "Updater fix (cwd bug + file-by-file swap fallback). Is version ko Setup se install karo \u2014 uske baad updates UPDATE button se lagenge."
 }
