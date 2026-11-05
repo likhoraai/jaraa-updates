@@ -1,6 +1,6 @@
 {
-  "version": "0.9.3",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.3/Jaraa-0.9.3.zip",
-  "sha256": "2892f89d9d23fdf30f84450df8fd3c5685b9c849be3f4f45702076a60262d35a",
-  "notes": "LAG FIX + MIC FIX: sahi suna command ek hi baar me accept; dobara-sunna max 2 halki baar; core animation halka, peeche ho to ruk jata hai. MIC: Jaraa ab mic NAAM se dhundhti hai aur hands-free me mic girne par khud dobara jodti hai \u2014 restart nahi karna padega. Update ke baad ek baar Settings > Voice > Microphone me WO Mic Device phir se chun lena."
+  "version": "0.9.4",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.9.4/Jaraa-0.9.4.zip",
+  "sha256": "de32faaadb1e3818a9a03ab772ec4ff21c010c3da4ffadcb42080fcb8d51eb38",
+  "notes": "FAST: sensitivity zyada (halki awaz bhi sunegi), chup hote hi 0.6s me jawab ki taiyari, hands-free me pehchana command card par nahi rukega, sunna halki setting par tez. Live me bhi sensitivity HIGH + jaldi turn."
 }
