@@ -1,6 +1,6 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.7.0/Jaraa-0.7.0.zip",
-  "sha256": "cc85de481b202658d0c539833fc6f285c95ddf9d345124730cbbf735cf9ccd13",
-  "notes": "LIVE VOICE: Gemini Live natural awaz \u2014 LIVE button dabao aur bolo, beech me tok sakte ho, YouTube kholo bhi chalega. Internet + Gemini key chahiye. Local Whisper offline ke liye maujood."
+  "version": "0.8.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.8.0/Jaraa-0.8.0.zip",
+  "sha256": "2ceebdbd01207cba826c85d44f75b6002ba089f25a05f2e222908e00bc3a6e3c",
+  "notes": "PHASE 3 \u2014 Commands LIVE: 'Chrome kholo', 'volume 50 karo', 'lock karo' \u2014 bolkar ya likhkar, teenon bhasha me, bina AI key ke. Live fix: ab halki awaz se nahi rukegi. STOP asal me kaam karta hai."
 }
