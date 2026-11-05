@@ -1,6 +1,6 @@
 {
-  "version": "0.2.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases",
-  "sha256": "",
-  "notes": "Current version. Future versions will appear here and the app will offer them via its UPDATE button."
+  "version": "0.2.1",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.2.1/Jaraa-0.2.1.zip",
+  "sha256": "4b66cd81430292436a547d2dc18ac4b786bd7f7442a921c5bfb5ec4c6f7063f4",
+  "notes": "Icon fix: Jaraa ka icon ab installed app me sahi dikhega. Ye update in-app UPDATE button se aayega \u2014 koi manual download nahi."
 }
