@@ -1,6 +1,6 @@
 {
-  "version": "0.4.2",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.2/Jaraa-0.4.2.zip",
-  "sha256": "eff358736a7960b751893bb37c284d4c2e4d7ae78585a4d7ed240b41059977fa",
-  "notes": "Full screen: app maximized khulta hai, F11/\u26f6 se true full screen, HUD screen-size par scale hota hai. Updater fix included. Is version ko Setup se install karo \u2014 aage ke updates button se lagenge."
+  "version": "0.4.3",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/v0.4.3/Jaraa-0.4.3.zip",
+  "sha256": "4671e3a094e0417072ee46e853f6bfa549fbb21fb8a4ffc1d34cf5b4a44159b1",
+  "notes": "Crash fix: angular buttons ka QPolygon bug (app khul ke band hota tha) + drawing safety guards. Full screen aur updater fix included."
 }
