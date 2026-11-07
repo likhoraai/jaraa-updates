@@ -1,1 +1,1 @@
-{"version":"1.5.0","url":"https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.5.0/JaraaWeb.zip","notes":"New Hands: paste typing engine (SendKeys fallback) + focus action + typing auto-verify"}
+{"version": "1.5.1", "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.5.1/JaraaWeb.zip", "notes": "HOTFIX: mouse/keyboard quoting bug - EncodedCommand delivery (user32 Add-Type null fix)"}
