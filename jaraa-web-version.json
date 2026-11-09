@@ -1,5 +1,5 @@
 {
-  "version": "1.9.2",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.9.2/JaraaWeb.zip",
-  "notes": "Remote Rule: mobile (site) connect hote hi desktop par MOBILE CONNECTED chip dikhega, desktop Jaraa ek baar bolegi - Remote connect ho gaya hai, ab main sirf mobile par bolungi - phir desktop ki awaaz band, awaaz sirf mobile par. Mobile disconnect hote hi desktop ki awaaz khud wapas."
+  "version": "1.9.3",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.9.3/JaraaWeb.zip",
+  "notes": "QR pairing: laptop ke Sidebar > Remote me samay chuno (15 min - 4 ghante), QR Dikhao dabao, phone se scan karo - connection sirf utne hi samay rahega, samay khatam hote hi band aur phone ke command bhi ruk jayenge. Mobile sidebar ab zyada chaudi aur aramdayak: bade text, 48px wale bade button, aur Lock/Logout neeche chipke hue - bina scroll kiye haath me."
 }
