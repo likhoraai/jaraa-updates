@@ -1,5 +1,5 @@
 {
-  "version": "1.11.1",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.11.1/JaraaWeb.zip",
-  "notes": "Taala: malik (Rabindra) ki Face ID pehchan ab taale me hai. Face ID ban jane ke baad use badalna ya delete karna sirf Sidebar se security PIN ke saath hoga - awaz ke command se bilkul nahi (koi aur apna chehra 'Rabindra' naam se save karke malik nahi ban sakta). Pehla khud ka enroll ab bhi bina PIN ke hoga. Doston ki pehchan pehle jaisi hi free hai."
+  "version": "1.12.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.12.0/JaraaWeb.zip",
+  "notes": "Jaag: ab 'Hey Jaraa' bolne se Jaraa jaagti hai. Laptop band khidki ke peeche bhi sunegi (Porcupine wake word, server me chalta hai) aur khidki khol kar session shuru kar degi - bas device unlocked ho (lock laga ho to taala nahi totega). Setup: Picovoice se AccessKey lo, 'Hey Jaraa' ki Windows .ppn file laptop ke wakeword folder me rakho, Sidebar ke naye 'Wake Word - Hey Jaraa' hisse me key daal kar ON karo aur mic (aksar WO Mic Device) chun lo. Saath me naya tray icon bhi hai - JARAA-TRAY.bat chalao, Jaraa system tray me baith jayegi."
 }
