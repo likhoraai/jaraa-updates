@@ -1,5 +1,5 @@
 {
-  "version": "1.11.0",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.11.0/JaraaWeb.zip",
-  "notes": "Dost: Jaraa ab dost ki tarah baat karegi (robotic lines khatam). Camera par ajnabi + tum aas-paas nahi to guardian alert phone par aayega aur wo tumhari private baat nahi batayegi (privacy guard). 15 min na dikho to dost ki tarah pukaregi. Naya mission: phone se bolo 'Bebe ko ye update bhejo' to laptop ki Jaraa Bebe ki Likhora chat me sandesh bhej degi - pehle Sidebar > Brain & Keys me Bebe Chat Link set karna hoga."
+  "version": "1.11.1",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.11.1/JaraaWeb.zip",
+  "notes": "Taala: malik (Rabindra) ki Face ID pehchan ab taale me hai. Face ID ban jane ke baad use badalna ya delete karna sirf Sidebar se security PIN ke saath hoga - awaz ke command se bilkul nahi (koi aur apna chehra 'Rabindra' naam se save karke malik nahi ban sakta). Pehla khud ka enroll ab bhi bina PIN ke hoga. Doston ki pehchan pehle jaisi hi free hai."
 }
