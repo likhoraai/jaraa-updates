@@ -1,5 +1,5 @@
 {
-  "version": "1.9.3",
-  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.9.3/JaraaWeb.zip",
-  "notes": "QR pairing: laptop ke Sidebar > Remote me samay chuno (15 min - 4 ghante), QR Dikhao dabao, phone se scan karo - connection sirf utne hi samay rahega, samay khatam hote hi band aur phone ke command bhi ruk jayenge. Mobile sidebar ab zyada chaudi aur aramdayak: bade text, 48px wale bade button, aur Lock/Logout neeche chipke hue - bina scroll kiye haath me."
+  "version": "1.10.0",
+  "url": "https://github.com/likhoraai/jaraa-updates/releases/download/jaraa-web-v1.10.0/JaraaWeb.zip",
+  "notes": "Pehchan: asli Face ID - chehra ab numbers se pehchana jayega. Sidebar > Chehra - Face ID se enroll karo, pehchane hue chehre par naam ka label dikhega. Sensitive kaam ka pakka saboot ab Face ID ya enrolled phone hai; awaz sirf hint hai."
 }
